@@ -1,0 +1,42 @@
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\bin\Debug\net6.0-windows\4932NeuralNet.exe
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\bin\Debug\net6.0-windows\4932NeuralNet.deps.json
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\bin\Debug\net6.0-windows\4932NeuralNet.runtimeconfig.json
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\bin\Debug\net6.0-windows\4932NeuralNet.dll
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\bin\Debug\net6.0-windows\ref\4932NeuralNet.dll
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\bin\Debug\net6.0-windows\4932NeuralNet.pdb
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet.csproj.AssemblyReference.cache
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet_MarkupCompile.cache
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet_MarkupCompile.lref
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet.g.resources
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet.AssemblyInfoInputs.cache
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet.AssemblyInfo.cs
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet.dll
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\ref\4932NeuralNet.dll
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet.pdb
+C:\Users\olive\source\repos\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet.genruntimeconfig.cache
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\bin\Debug\net6.0-windows\4932NeuralNet.exe
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\bin\Debug\net6.0-windows\4932NeuralNet.deps.json
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\bin\Debug\net6.0-windows\4932NeuralNet.runtimeconfig.json
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\bin\Debug\net6.0-windows\4932NeuralNet.dll
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\bin\Debug\net6.0-windows\ref\4932NeuralNet.dll
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\bin\Debug\net6.0-windows\4932NeuralNet.pdb
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\App.g.cs
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet_MarkupCompile.cache
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet_MarkupCompile.lref
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet.g.resources
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet.AssemblyInfoInputs.cache
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet.AssemblyInfo.cs
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet.dll
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\ref\4932NeuralNet.dll
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet.pdb
+C:\Visual Studio Projects\4932NeuralNet\4932NeuralNet\obj\Debug\net6.0-windows\4932NeuralNet.genruntimeconfig.cache
